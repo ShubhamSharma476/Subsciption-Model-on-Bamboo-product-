@@ -1,4 +1,4 @@
-# Subsciption-Model-on-Bamboo-product-
+# Subsciption Model on Bamboo products
 
 Introduction
 Bamboo is a versatile green material that is fast-growing, lightweight, strong, and environmentally friendly. It has various applications, 
